@@ -48,6 +48,15 @@ Microsoft Excel: data inspection and validation.
 - built dashboards covering sales performance and customer insights.
 - added slicers for date product category, geographical location, payment method and review score.
 
+
+ Dashboard Preview
+#### 1. Sales Analysis
+![Sales Analysis Dashboard](sales_analysis.png)
+
+#### 2. Customer Insights
+![Customer Insights Dashboard](customer_insights.png)
+
+
 **Key Business Insights**
 - Overall Revenue: I found that Olist made about 13.59 million BRL from 99.44 thousand orders.
 - Highest Revenue Generating State : Sao Paulo is the highest revenue generating state which is relative to it being the most populous state in Brazil followed by Minas Gerais and Rio De Janeiro for the exact same reasons
